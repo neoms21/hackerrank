@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mocha": "^6.0.2"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha --watch **/*.test.js"
+  }
+}
